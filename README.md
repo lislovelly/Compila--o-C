@@ -8,7 +8,7 @@ As fases da compilação:
 
 ![alt text](fases.png)
 
-1º Pré-Processamento: Remove comentários, incluios arquivos necessários (.i).
+1º Pré-Processamento: Remove comentários, inclui os arquivos necessários (.i).
 
 ![program.i.png](program.i.png)
 
