@@ -8,7 +8,7 @@ As fases da compilação:
 
 ![alt text](Screenshot_2.png)
 
-1º Pré-Processamento: Remove comentários, incluios arquivos necessários (.i).
+1º Pré-Processamento: Remove comentários, inclui os arquivos necessários (.i).
 
 ![alt text](Screenshot_5.png)
 
